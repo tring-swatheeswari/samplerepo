@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1 id="heading">My First Heading</h1>
+<h1 id="heading">My First </h1>
 <p id="paragraph">My first paragraph.</p>
 
 <script>
