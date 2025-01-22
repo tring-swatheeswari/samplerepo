@@ -3,7 +3,7 @@
 <body>
 
 <h1 id="hea">My First </h1>
-<p id="paragraph">My first paragraph.</p>
+<p id="paragraph">My first name.</p>
 
 <script>
     // Apply styles using JavaScript
